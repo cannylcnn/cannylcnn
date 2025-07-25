@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there 👋
+🛠 Tech Skills
 
-<!--
-**cannylcnn/cannylcnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Languages**  
+  HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Python
 
-Here are some ideas to get you started:
+⚙️ **Frameworks & Libraries**  
+  React.js • Express.js • Tailwind CSS • Bootstrap • Material UI • jQuery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 **Tools & Technologies**  
+  Git • GitHub • Vite • Webpack • ESLint • Prettier  
+  REST API (Fetch & Axios) • NPM • Yarn
+
+📋 **Project Management**  
+  Jira • Trello
+
+🚀 **Currently Learning**  
+  TypeScript • Next.js
