@@ -1,6 +1,6 @@
 Hi there 👋
-🛠 Tech Skills
 
+🛠 Tech Skills
 💻 **Languages**  
   HTML5 • CSS3 • JavaScript (ES6+) • Node.js • Python
 
